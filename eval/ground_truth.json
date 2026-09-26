@@ -1,0 +1,13 @@
+[
+  {"line": 1, "type": "PERSON", "text": "Sneha Iyer"},
+  {"line": 1, "type": "EMAIL", "text": "sneha_iyer99@yahoo.co.in"},
+  {"line": 2, "type": "PHONE", "text": "080-25501234"},
+  {"line": 3, "type": "COMPANY", "text": "Greenfield Agro Exports LLP"},
+  {"line": 4, "type": "IP_ADDRESS", "text": "198.51.100.23"},
+  {"line": 5, "type": "CREDIT_CARD", "text": "3782 822463 10005"},
+  {"line": 6, "type": "SSN", "text": "987-65-4320"},
+  {"line": 7, "type": "DATE_OF_BIRTH", "text": "April 2, 1978"},
+  {"line": 8, "type": "ADDRESS", "text": "Flat No. 7, Silver Oak Society, Baner Road, Pune 411008"},
+  {"line": 10, "type": "PERSON", "text": "Kabir Singh Sodhi"},
+  {"line": 10, "type": "COMPANY", "text": "Meridian Steel & Alloys Limited"}
+]
